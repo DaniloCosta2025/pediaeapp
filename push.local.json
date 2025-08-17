@@ -1,0 +1,13 @@
+{
+  "PUSH_PROVIDER": "fcm",
+  "PORT": "8787",
+  "SUPABASE_URL": "https://wzqrtvystohnpioblwcd.supabase.co",
+  "SUPABASE_SERVICE_ROLE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Ind6cXJ0dnlzdG9obnBpb2Jsd2NkIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NDY5NTczNiwiZXhwIjoyMDcwMjcxNzM2fQ.buJrJR7U0ru0XMDZCN27bXUQWm2dmGD_cR0XUvl8mqM",
+  "FIREBASE_SERVICE_ACCOUNT_FILE": "server/firebase-service-account.local.json",
+  "SUMUP_CLIENT_ID": "cc_classic_3vizF9EqFg2O03kHz59AgZWOPL2zN",
+  "SUMUP_CLIENT_SECRET": "cc_sk_classic_YJ48TZfoRLkICKIUW68fLiLqAWI8kCgAIZnYAv9wWeduNeHULm",
+  "SUMUP_MERCHANT_CODE": "MVNAEVNK",
+  "SUMUP_SUCCESS_URL": "https://pagamento.pediae.com/success.php",
+  "SUMUP_CANCEL_URL": "https://pagamento.pediae.com/cancel.php"
+}
+

@@ -1,0 +1,31 @@
+# Dependências do Node.js
+node_modules/
+
+# Arquivos de configuração locais
+.env
+push.local.json
+
+# Diretórios de build
+dist/
+build/
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+*.swp
+
+# Arquivos do Vercel
+.vercel/
+
+# Arquivos de configuração do Supabase (caso haja)
+supabase/
+
+# Arquivos de credenciais do Firebase (caso você tenha)
+firebase-service-account.json

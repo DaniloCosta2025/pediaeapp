@@ -3,6 +3,7 @@ node_modules/
 
 # Arquivos de configuração locais
 .env
+.env.local
 push.local.json
 
 # Diretórios de build
@@ -29,3 +30,13 @@ supabase/
 
 # Arquivos de credenciais do Firebase (caso você tenha)
 firebase-service-account.json
+
+# Arquivos temporários (de editores)
+*~
+
+# Arquivo de configuração do NPM
+.npmrc
+
+# Cache do Yarn (se aplicável)
+.yarn/
+.yarn-cache/
